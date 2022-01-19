@@ -1,0 +1,13 @@
+{
+  "pipeDrive": {
+    "urlKey": "https://www.pipedrive.com/tr",
+    "elementTimeOut": 10,
+    "elements": {
+      "Login": "//*[@id=\"__next\"]/header/div/div/div[3]/a/span",
+      "email": "#login",
+      "password": "#password",
+      "loginButton" : "//*[@id=\"root\"]/div/div[1]/div[2]/div[1]/div/form/div/div[3]/button",
+      "menuBar": "#froot-nav"
+    }
+  }
+}
